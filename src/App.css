@@ -1,0 +1,29 @@
+.App {
+}
+
+.App-header {
+  margin-bottom: 20px;
+
+  text-align: center;
+
+  background-color: #222;
+}
+
+.App-logo {
+  height: 80px;
+
+  animation: App-logo-spin infinite 20s linear;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-wrapper {
+  max-width: 1014px;
+}
+
+.box.github {
+  margin-bottom: 10px;
+}
