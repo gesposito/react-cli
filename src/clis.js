@@ -9,10 +9,10 @@ export const CLIS = [
 
   'motion/motion',
   'saguijs/sagui',
-  'mzabriskie/rackt-cli',
-
   'satya164/quik',
+
   'rocjs/roc',
+  'mzabriskie/rackt-cli',
   'kriasoft/react-app',
 
   'stoikerty/dev-toolkit',

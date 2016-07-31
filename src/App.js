@@ -4,6 +4,7 @@ import logo from './logo.svg';
 
 import './App.css';
 
+import Ribbon from './Ribbon/Ribbon';
 import CardList from './Card/CardList';
 
 class App extends Component {
@@ -20,6 +21,7 @@ class App extends Component {
           <a href="https://github.com/facebookincubator/create-react-app">
             <img src={logo} className="App-logo" alt="built with create-react-app" />
           </a>
+          <Ribbon />
         </section>
 
         <section className="App-wrapper container-fluid">
