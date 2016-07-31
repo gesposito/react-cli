@@ -2,25 +2,7 @@ import React, { PropTypes } from 'react';
 
 import Card from './Card';
 
-const CLIS = [
-  'facebookincubator/create-react-app',
-  'infinitered/ignite',
-  'insin/nwb',
-
-  'mattdesl/budo',
-  'eanplatter/enclave',
-  'petehunt/rwb',
-
-  'motion/motion',
-  'saguijs/sagui',
-  'mzabriskie/rackt-cli',
-
-  'satya164/quik',
-  'rocjs/roc',
-  'kriasoft/react-app',
-  
-  'd4rkr00t/aik',
-];
+import { CLIS } from '../clis';
 
 class CardList extends React.Component {
   render() {

@@ -18,7 +18,7 @@ class App extends Component {
       <div className="App">
         <section className="App-header">
           <a href="https://github.com/facebookincubator/create-react-app">
-            <img src={logo} className="App-logo" alt="built with create-react-" />
+            <img src={logo} className="App-logo" alt="built with create-react-app" />
           </a>
         </section>
 
