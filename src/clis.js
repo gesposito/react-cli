@@ -15,6 +15,8 @@ export const CLIS = [
   'mzabriskie/rackt-cli',
   'kriasoft/react-app',
 
+  'mozilla/neo',
   'stoikerty/dev-toolkit',
   'd4rkr00t/aik',
+  
 ];
