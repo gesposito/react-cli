@@ -7,16 +7,18 @@ export const CLIS = [
   'eanplatter/enclave',
   'petehunt/rwb',
 
+  'jumpsuit/jumpsuit',
   'motion/motion',
   'saguijs/sagui',
-  'satya164/quik',
 
+  'satya164/quik',
   'rocjs/roc',
   'mzabriskie/rackt-cli',
-  'kriasoft/react-app',
 
+  'kriasoft/react-app',
   'mozilla/neo',
   'stoikerty/dev-toolkit',
-  'd4rkr00t/aik',
   
+  'd4rkr00t/aik',
+
 ];
